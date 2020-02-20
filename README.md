@@ -1,4 +1,4 @@
-# Dockerメモ
+# Docker個人的メモ
 
 docker run --name=httpd_temp rhel7:latest /bin/bash -c "yum install httpd -y;"
 
